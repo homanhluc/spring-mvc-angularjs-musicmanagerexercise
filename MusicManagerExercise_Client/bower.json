@@ -1,0 +1,31 @@
+{
+  "name": "bower_project",
+  "authors": [
+    "Luc Ho <homanhluc95@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "library",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "boostrap#^3.3.7",
+    "angular-file-model": "^0.3.1",
+    "angular-audio": "^1.7.4",
+    "angular-bootstrap": "^2.5.0",
+    "angular-animate": "^1.6.5",
+    "angular-sanitize": "^1.6.5",
+    "angular": "^1.6.5",
+    "bootstrap-toggle": "^2.2.2",
+    "angular-translate": "^2.15.2"
+  }
+}
